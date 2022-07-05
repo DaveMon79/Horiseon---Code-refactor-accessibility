@@ -34,9 +34,9 @@ Both the HTML and CSS pages had no stucture, didn't follow a semantic order and 
 
 # Links to Project:
 
-https://github.com/DaveMon79/Module-1-Challenge.git
+https://github.com/DaveMon79/Horiseon---Code-refactor-accessibility.git
 
-https://davemon79.github.io/Module-1-Challenge/
+https://davemon79.github.io/Horiseon---Code-refactor-accessibility/
 
 
 # Credits
